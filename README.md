@@ -23,3 +23,10 @@ It also focuses on building visualizations so that we can have a better understn
 
 
 ## POWER BI DASHBOARD
+
+
+
+
+![US_Sales_data_analysis1](https://github.com/jayalakshmisaju/Afame-Techonologies/assets/163704936/14241232-6d03-4731-aa3d-0f41fb1f827c)
+![US_Sales_data_analysis2](https://github.com/jayalakshmisaju/Afame-Techonologies/assets/163704936/b76fd922-40ac-4b27-bfd0-3ed11801c425)
+
